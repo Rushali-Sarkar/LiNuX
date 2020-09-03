@@ -8,5 +8,6 @@ I am a windows user and one of the most interesting feature I was made familar w
 Setting up WSL is pretty easy. The steps are -
 
 1) Seacrch for "Turn Windows Featuers on or off" in your machine
+<img src = "./screenshots/picture1.png">
 
 
